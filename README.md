@@ -3,12 +3,13 @@ FB7420891
 
 ![Status](https://img.shields.io/badge/status-open-brightgreen.svg?style=flat)
 [![Contact](https://img.shields.io/badge/contact-@macmade-blue.svg?style=flat)](https://twitter.com/macmade)  
-[![Donate-Patreon](https://img.shields.io/badge/donate-patreon-yellow.svg?style=flat)](https://patreon.com/macmade)
-[![Donate-Gratipay](https://img.shields.io/badge/donate-gratipay-yellow.svg?style=flat)](https://www.gratipay.com/macmade)
-[![Donate-Paypal](https://img.shields.io/badge/donate-paypal-yellow.svg?style=flat)](https://paypal.me/xslabs)
+[![Sponsor](https://img.shields.io/badge/sponsor-macmade-pink.svg?logo=github-sponsors&style=social)](https://github.com/sponsors/macmade)
 
 Breaking InterfaceBuilder issue with labels centered vertically in a table view
 -------------------------------------------------------------------------------
+
+    Jean-David Gadina
+    Oct 31, 2019 at 11:20 PM – FB7420891
 
 ### Basic information
 
